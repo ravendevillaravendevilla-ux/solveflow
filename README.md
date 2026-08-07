@@ -1,4 +1,4 @@
-# solveflow# Base44 Project
+# solveflow
 
 Use this repository to run and edit the app locally, then publish changes back through Base44.
 
